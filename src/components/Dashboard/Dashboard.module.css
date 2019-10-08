@@ -1,0 +1,10 @@
+.dashboard {
+  background-color: white;
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
+
+  margin: 0 auto;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}

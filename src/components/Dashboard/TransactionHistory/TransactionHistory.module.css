@@ -1,0 +1,24 @@
+.history {
+  text-align: center;
+  width: 870px;
+  margin: 0 auto;
+  border: solid 1px #ddeeee;
+  border-collapse: collapse;
+  border-spacing: 0;
+  font: normal 13px Arial, sans-serif;
+}
+.history thead th {
+  width: 33%;
+  background-color: #ebeef2;
+  border: solid 1px #ddeeee;
+  color: #070a0a;
+  padding: 10px;
+  text-align: center;
+  text-shadow: 1px 1px 1px #fff;
+}
+.history tbody td {
+  border: solid 1px #ddeeee;
+  color: #5c6975;
+  padding: 10px;
+  text-shadow: 1px 1px 1px #fff;
+}

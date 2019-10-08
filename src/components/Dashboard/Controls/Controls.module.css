@@ -1,0 +1,37 @@
+.controls {
+  padding: 50px 0;
+  display: flex;
+  justify-content: center;
+  background-color: #062b55;
+}
+
+.wrapIntBut {
+  display: flex;
+  justify-content: space-between;
+  width: 768px;
+}
+
+.amount {
+  padding-left: 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  width: 260px;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #476ba5;
+}
+
+.depositBtn,
+.withdrawBtn {
+  color: aliceblue;
+  background-color: #3983fd;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 10px 65px;
+  outline: none;
+}
